@@ -1,4 +1,4 @@
-module github.com/LNA-DEV/PrivateDocsy
+module github.com/Fedodo/Fedodo.Docs.Theme
 
 go 1.12
 
