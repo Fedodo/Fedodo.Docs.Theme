@@ -5,7 +5,7 @@ description = "A Hugo theme for technical documentation sites. Forked from Googl
 homepage = "https://docsy.dev"
 tags = ["documentation", "multilingual", "customizable", "responsive", "docs", "privacy"]
 features = []
-min_version = 0.53
+min_version = "0.110.0"
 
 [author]
   name = "The PrivateDocsy Authors"

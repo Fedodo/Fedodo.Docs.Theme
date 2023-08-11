@@ -39,7 +39,7 @@ $td-sidebar-border-color: $border-color !default;
 $td-box-colors: $dark, $primary, $secondary, $info, $white, $gray-600, $success,
   $warning, $dark, $danger, $primary, $secondary, $info !default;
 
-$link-color: $blue-500;
+$link-color: $blue-500 !default;
 $link-decoration: none !default;
 $link-shade-percentage: 30% !default;
 
@@ -91,3 +91,7 @@ $pagination-disabled-color: $gray-300 !default; // TODO: consider using BS defau
 
 $navbar-dark-color: rgba($white, 0.75) !default;      // TODO: consider moving into UG SCSS
 $navbar-dark-hover-color: rgba($white, 0.5) !default; // TODO: consider moving into UG SCSS
+
+// Footer
+
+$list-inline-padding: $spacer;
